@@ -18,7 +18,7 @@ For some reason I admit that I was a little surprised to find a Wikipedia page a
 
 ### STAT 184: Introduction to R Programmaing
 
-[your turn!]
+This class is a necesary for my data science major, we will be learning about R language and how to use it.
 
 
 ### [Additional Courses...]
