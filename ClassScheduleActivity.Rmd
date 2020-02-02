@@ -19,7 +19,7 @@ For some reason I admit that I was a little surprised to find a Wikipedia page a
 ### STAT 184: Introduction to R Programmaing
 
 This class is a necesary for my data science major, we will be learning about R language and how to use it.
-This class is online and it is one of the first online classes iv had, im excited to see all the new things i get to learn.
+This class is online and it is one of the first online classes iv had, im excited to see all the new things i get to learn, [link](https://bulletins.psu.edu/university-course-descriptions/undergraduate/stat/)
 
 
 ### [Additional Courses...]
