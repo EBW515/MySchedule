@@ -10,6 +10,7 @@ output: html_notebook
 ### SRA 221: Introduction to Security Risk Analytics
 This class is a Intro to security risk anayltics, im taking it becuase it is a needed class for my application focus of cyber security.
 In this class we will be talking about who is responsible for the security of our information, more infor here [Link](https://ist.psu.edu/students/undergrad/majors/sra)
+![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F327412924%2Ffigure%2Ffig1%2FAS%3A666966918459395%401536028713529%2FFive-main-components-of-security-risk-analysis.png&imgrefurl=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FFive-main-components-of-security-risk-analysis_fig1_327412924&tbnid=ZMYwUOBUZ9vSGM&vet=12ahUKEwjG_4_murPnAhVKYlkKHbj5C9QQMygAegUIARDxAQ..i&docid=vgPpIhBVju7ImM&w=850&h=639&q=security%20risk%20analysis&ved=2ahUKEwjG_4_murPnAhVKYlkKHbj5C9QQMygAegUIARDxAQ)
 
 
 
@@ -17,6 +18,7 @@ In this class we will be talking about who is responsible for the security of ou
 
 This class is a necesary for my data science major, we will be learning about R language and how to use it.
 This class is online and it is one of the first online classes iv had, im excited to see all the new things i get to learn, [link](https://bulletins.psu.edu/university-course-descriptions/undergraduate/stat/)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datacamp.com%2Fcourses%2Ffree-introduction-to-r&psig=AOvVaw1aHX9xReMX2NmvC91Ztom4&ust=1580753317156000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDu25O7s-cCFQAAAAAdAAAAABAD)
 
 
 ### DS 310: Machine learning for data anayltics
@@ -24,5 +26,5 @@ This class is online and it is one of the first online classes iv had, im excite
 This class teaches the principles of machine leanring and data mining anmd their application in datra science.
 DS 310 is needed as one of the main core classes for my data science major and that is why i am taking it. you can find more info here {Link}(https://www.sas.com/en_us/insights/analytics/machine-learning.html)
 
-
+![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.mtab.com%2Fwp-content%2Fuploads%2F2015%2F11%2Fgraph-results.jpg&imgrefurl=https%3A%2F%2Fwww.mtab.com%2Fadvanced-data-analysis-methods-you-need-to-know%2F&tbnid=V3IyX-YZM0-xeM&vet=12ahUKEwi9vqnCurPnAhUcVFkKHXrTDFcQMygQegUIARCpAg..i&docid=zGJLVoOww5nGHM&w=300&h=200&q=data%20analysis&ved=2ahUKEwi9vqnCurPnAhUcVFkKHXrTDFcQMygQegUIARCpAg)
 
