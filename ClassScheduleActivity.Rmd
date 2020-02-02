@@ -19,9 +19,10 @@ This class is a necesary for my data science major, we will be learning about R 
 This class is online and it is one of the first online classes iv had, im excited to see all the new things i get to learn, [link](https://bulletins.psu.edu/university-course-descriptions/undergraduate/stat/)
 
 
-### [Additional Courses...]
+### DS 310: Machine learning for data anayltics
 
-[your turn!]
+This class teaches the principles of machine leanring and data mining anmd their application in datra science.
+DS 310 is needed as one of the main core classes for my data science major and that is why i am taking it. you can find more info here {Link}(https://www.sas.com/en_us/insights/analytics/machine-learning.html)
 
 
 
